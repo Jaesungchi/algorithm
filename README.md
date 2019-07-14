@@ -3,13 +3,17 @@
 #### 현재 푼 문제
 
 시뮬레이션
+
 https://www.acmicpc.net/problem/3190 // 뱀
+
 https://www.acmicpc.net/problem/14499 //주사위굴리기
+
 https://www.acmicpc.net/problem/14890 //경사로
 
 
 
 시도 했지만 풀지 못한 문제 (풀예정)
+
 https://www.acmicpc.net/problem/14891 //톱니바퀴
 
 
