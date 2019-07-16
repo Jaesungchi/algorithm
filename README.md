@@ -10,9 +10,11 @@ https://www.acmicpc.net/problem/14499 //주사위굴리기 난이도★★
 
 https://www.acmicpc.net/problem/14890 //경사로 난이도★★★
 
+https://www.acmicpc.net/problem/14891 //톱니바퀴 난이도 ★★
+
 브루트포스
 
-//https://www.acmicpc.net/problem/15661 //링크와 스타트 난이도★★
+https://www.acmicpc.net/problem/15661 //링크와 스타트 난이도★★
 
 DP
 
@@ -25,8 +27,6 @@ https://www.acmicpc.net/problem/13458 //시험감독 난이도★
 
 
 시도 했지만 풀지 못한 문제 (풀예정)
-
-https://www.acmicpc.net/problem/14891 //톱니바퀴
 
 
 
