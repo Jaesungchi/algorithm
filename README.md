@@ -10,6 +10,10 @@ https://www.acmicpc.net/problem/14499 //주사위굴리기
 
 https://www.acmicpc.net/problem/14890 //경사로
 
+DP
+
+https://www.acmicpc.net/problem/15486 //퇴사2 (오래걸림 또 풀어보셈)
+
 
 
 시도 했지만 풀지 못한 문제 (풀예정)
