@@ -4,15 +4,19 @@
 
 시뮬레이션
 
-https://www.acmicpc.net/problem/3190 // 뱀
+https://www.acmicpc.net/problem/3190 // 뱀  난이도★★
 
-https://www.acmicpc.net/problem/14499 //주사위굴리기
+https://www.acmicpc.net/problem/14499 //주사위굴리기 난이도★★
 
-https://www.acmicpc.net/problem/14890 //경사로
+https://www.acmicpc.net/problem/14890 //경사로 난이도★★★
 
 DP
 
-https://www.acmicpc.net/problem/15486 //퇴사2 (오래걸림 또 풀어보셈)
+https://www.acmicpc.net/problem/15486 //퇴사2 (오래걸림 또 풀어보셈) 난이도★★★★★
+
+기타
+
+https://www.acmicpc.net/problem/13458 //시험감독 난이도★
 
 
 
