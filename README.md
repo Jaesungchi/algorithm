@@ -12,6 +12,8 @@ https://www.acmicpc.net/problem/14890 //경사로 난이도★★★
 
 https://www.acmicpc.net/problem/14891 //톱니바퀴 난이도 ★★
 
+https://www.acmicpc.net/problem/1063 //킹 난이도 ★
+
 브루트포스
 
 https://www.acmicpc.net/problem/15661 //링크와 스타트 난이도★★
