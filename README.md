@@ -16,6 +16,8 @@ https://www.acmicpc.net/problem/14891 //톱니바퀴 난이도 ★★
 
 https://www.acmicpc.net/problem/15661 //링크와 스타트 난이도★★
 
+https://www.acmicpc.net/problem/1012 //유기농배추 난이도 ★
+
 DP
 
 https://www.acmicpc.net/problem/15486 //퇴사2 (오래걸림 또 풀어보셈) 난이도★★★★★
