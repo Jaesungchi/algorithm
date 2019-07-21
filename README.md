@@ -42,6 +42,8 @@ https://www.acmicpc.net/problem/14502 //연구소 (재귀가 제대로 돌지 �
 
 https://www.acmicpc.net/problem/5213 //과외맨 (데이터 관리가 무척 힘듬)
 
+https://www.acmicpc.net/problem/16707 //American Tour (벨만포드 적용 매우 어렵 ;;)
+
 예시는 다 맞으나 틀렸다고 뜨는 문제 (어디가 틀렸는지 못찾음)
 
 https://www.acmicpc.net/problem/15683 //감시
