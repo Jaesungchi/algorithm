@@ -20,7 +20,9 @@ https://www.acmicpc.net/problem/15661 //링크와 스타트 난이도★★
 
 https://www.acmicpc.net/problem/1012 //유기농배추 난이도 ★
 
-https://www.acmicpc.net/problem/15686 //치킨배달  난이도 ★★
+https://www.acmicpc.net/problem/15686 //치킨배달  난이도 ★★ (vecter 이용)
+
+https://www.acmicpc.net/problem/2210 //숫자판 점프 난이도 ★ (set함수 이용)
 
 BFS
 
