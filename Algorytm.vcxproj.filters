@@ -13,58 +13,64 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Baekjoon">
+      <UniqueIdentifier>{770bd27a-20b8-43ae-95b4-02f9e4ae48c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Samsung">
+      <UniqueIdentifier>{7e9e4663-786c-4661-89bb-4ab5a37e0de1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="S14890.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="S14499.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="S14891.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="S3190.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="DP15486.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ETC13458.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BF15661.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BF14502.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BF15683.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="BELL16707.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
     </ClCompile>
     <ClCompile Include="BF1012.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="S1063.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BFS3184.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BFS5014.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BFS5213.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BELL16707.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BF15686.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Baekjoon</Filter>
     </ClCompile>
     <ClCompile Include="BF2210.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="BF14502.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="BF15661.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="BF15683.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="BF15686.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS3184.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS5014.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS5213.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="DP15486.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="ETC13458.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="S1063.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="S3190.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="S14499.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="S14890.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="S14891.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
