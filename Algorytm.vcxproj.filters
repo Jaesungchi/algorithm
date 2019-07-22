@@ -57,7 +57,10 @@
     <ClCompile Include="BFS5213.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BFS16707.cpp">
+    <ClCompile Include="BELL16707.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BF15686.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
