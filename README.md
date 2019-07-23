@@ -16,6 +16,8 @@ https://www.acmicpc.net/problem/1063 //킹 난이도 ★
 
 SW Expert Academy 1949 // 등산로조성 난이도 ★★★
 
+https://www.acmicpc.net/problem/15662 //톱니바퀴2 난이도 ★★
+
 브루트포스
 
 https://www.acmicpc.net/problem/15661 //링크와 스타트 난이도★★
