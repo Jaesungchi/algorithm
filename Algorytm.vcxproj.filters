@@ -72,5 +72,8 @@
     <ClCompile Include="S14891.cpp">
       <Filter>소스 파일\Baekjoon</Filter>
     </ClCompile>
+    <ClCompile Include="1949.cpp">
+      <Filter>소스 파일\Samsung</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
