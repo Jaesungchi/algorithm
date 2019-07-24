@@ -20,7 +20,9 @@ https://www.acmicpc.net/problem/15662 //톱니바퀴2 난이도 ★★
 
 https://www.acmicpc.net/problem/15685 //드래곤커브 난이도 ★★★
 
-SW Expert Academy 2105 // 디저트가게 난이도 ★★
+SW Expert Academy 2105 // 디저트가게 난이도★★
+
+SW Expert Academy 1953 // 탈주범검거 난이도★★★
 
 브루트포스
 
