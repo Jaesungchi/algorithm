@@ -62,6 +62,8 @@ https://www.acmicpc.net/problem/2193 //이친수 난이도★
 
 https://www.acmicpc.net/problem/9465 //스티커 난이도★★
 
+https://www.acmicpc.net/problem/2156  //포도주 시식 난이도★★
+
 기타
 
 https://www.acmicpc.net/problem/13458 //시험감독 난이도★
