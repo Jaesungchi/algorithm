@@ -56,7 +56,9 @@ https://www.acmicpc.net/problem/9095 //1,2,3 더하기 난이도★
 
 https://www.acmicpc.net/problem/10844 //쉬운계단수 난이도★★
 
-https://www.acmicpc.net/problem/11057 //오르막 수 난이도 ★
+https://www.acmicpc.net/problem/11057 //오르막 수 난이도★
+
+https://www.acmicpc.net/problem/2193 //이친수 난이도★
 
 기타
 
