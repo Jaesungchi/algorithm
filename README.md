@@ -52,6 +52,8 @@ https://www.acmicpc.net/problem/11726 //2xn 타일링 난이도★
 
 https://www.acmicpc.net/problem/11727 //2xn 타일링2 난이도★
 
+https://www.acmicpc.net/problem/9095 //1,2,3 더하기 난이도★
+
 기타
 
 https://www.acmicpc.net/problem/13458 //시험감독 난이도★
