@@ -66,7 +66,9 @@ https://www.acmicpc.net/problem/2156  //포도주 시식 난이도★★
 
 https://www.acmicpc.net/problem/11053 //가장 긴 증가 부분 수열 난이도★★
 
-https://www.acmicpc.net/problem/11055 //가장 큰 증가 부분 수열 난이도★★
+https://www.acmicpc.net/problem/11055 //가장 큰 증가 부분 수열 난이도★ (위를 하고나니 쉬움)
+
+https://www.acmicpc.net/problem/11722 //가장 긴 감소하는 부분 수열 난이도★
 
 기타
 
