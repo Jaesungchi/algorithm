@@ -129,5 +129,8 @@
     <ClCompile Include="1953.cpp">
       <Filter>소스 파일\Samsung</Filter>
     </ClCompile>
+    <ClCompile Include="DP11054.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
