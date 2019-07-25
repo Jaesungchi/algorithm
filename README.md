@@ -38,6 +38,8 @@ https://www.acmicpc.net/problem/2210 //숫자판 점프 난이도 ★ (set함수
 
 https://www.acmicpc.net/problem/14500 //테트로미노 난이도 ★★
 
+https://www.acmicpc.net/problem/14889 //스타트와 링크 난이도★★
+
 BFS
 
 https://www.acmicpc.net/problem/3184 //양 난이도★★(DFS로 품)
