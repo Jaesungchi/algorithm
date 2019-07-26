@@ -144,7 +144,10 @@
     <ClCompile Include="S17144.cpp">
       <Filter>소스 파일\Baekjoon</Filter>
     </ClCompile>
-    <ClCompile Include="S14889.cpp">
+    <ClCompile Include="BF14889.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="DP2133.cpp">
       <Filter>소스 파일\Baekjoon</Filter>
     </ClCompile>
   </ItemGroup>
