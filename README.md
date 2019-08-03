@@ -88,6 +88,8 @@ https://www.acmicpc.net/problem/2133 //타일채우기 난이도★★★
 
 https://www.acmicpc.net/problem/9461 //파도반 수열 난이도★
 
+https://www.acmicpc.net/problem/2225 //합분해 난이도 ★★
+
 기타
 
 https://www.acmicpc.net/problem/13458 //시험감독 난이도★
