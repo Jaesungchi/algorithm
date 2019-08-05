@@ -108,6 +108,8 @@ https://www.acmicpc.net/problem/10814 //나이순 정렬 난이도 ★★ //vect
 
 https://www.acmicpc.net/problem/10825 //국영수 난이도 ★★ //vector,sort심화
 
+https://www.acmicpc.net/problem/10989 //수 정렬하기 3 난이도 ★★★ //sort 안씀
+
 
 
 시도 했지만 풀지 못한 문제 (풀예정)

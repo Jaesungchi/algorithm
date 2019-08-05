@@ -4,6 +4,9 @@
 #include <string>
 using namespace std;
 
+//https://www.acmicpc.net/problem/10825 국영수
+//sort,vector 아놔 ;; 허무하네 ;;
+
 struct Point {
 	string name;
 	int x; //국
@@ -14,7 +17,7 @@ struct Point {
 bool sortCheck(const Point &u,const Point &v) {
 	if (u.x != v.x) return u.x > v.x; //국어점수 감소 순
 	if (u.y != v.y) return u.y < v.y; //영어는 증가 순
-	if (u.z != v.x) return u.z > v.x; //수학점수는 감소 순
+	if (u.z != v.z) return u.z > v.z; //수학점수는 감소 순
 	return u.name < v.name;//이름 사전 증가순.
 }
 
