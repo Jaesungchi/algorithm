@@ -98,9 +98,11 @@ https://www.acmicpc.net/problem/11052 //카드구매하기 난이도 ★★
 
 https://www.acmicpc.net/problem/13458 //시험감독 난이도★
 
-https://www.acmicpc.net/problem/2751 //수정렬하기2 난이도 ★★
+https://www.acmicpc.net/problem/2751 //수정렬하기2 난이도 ★★ //sort
 
-https://www.acmicpc.net/problem/11650 //좌표 정렬하기 난이도 ★★ (sort 와 vector 중요)
+https://www.acmicpc.net/problem/11650 //좌표 정렬하기 난이도 ★★ //vector, sort심화
+
+https://www.acmicpc.net/problem/11651 //좌표 정렬하기2 난이도 ★★ //vector,sort심화
 
 
 
