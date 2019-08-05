@@ -100,6 +100,8 @@ https://www.acmicpc.net/problem/13458 //시험감독 난이도★
 
 https://www.acmicpc.net/problem/2751 //수정렬하기2 난이도 ★★
 
+https://www.acmicpc.net/problem/11650 //좌표 정렬하기 난이도 ★★ (sort 와 vector 중요)
+
 
 
 시도 했지만 풀지 못한 문제 (풀예정)
