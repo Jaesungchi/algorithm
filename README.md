@@ -104,6 +104,8 @@ https://www.acmicpc.net/problem/11650 //좌표 정렬하기 난이도 ★★ //v
 
 https://www.acmicpc.net/problem/11651 //좌표 정렬하기2 난이도 ★★ //vector,sort심화
 
+https://www.acmicpc.net/problem/10814 //나이순 정렬 난이도 ★★ //vector,sort심화
+
 
 
 시도 했지만 풀지 못한 문제 (풀예정)
