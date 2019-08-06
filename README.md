@@ -130,6 +130,8 @@ https://www.acmicpc.net/problem/10809 //알파벳 찾기 난이도 ★
 
 https://www.acmicpc.net/problem/10820 //문자열분석 난이도 ★
 
+https://www.acmicpc.net/problem/2743 //단어 길이 재기 난이도 0
+
 
 
 시도 했지만 풀지 못한 문제 (풀예정)
