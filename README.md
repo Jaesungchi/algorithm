@@ -112,6 +112,8 @@ https://www.acmicpc.net/problem/10989 //수 정렬하기 3 난이도 ★★★ /
 
 https://www.acmicpc.net/problem/11652 //카드 난이도 ★★ //sort
 
+https://www.acmicpc.net/problem/11004 //K번째 수 난이도 ★
+
 
 
 시도 했지만 풀지 못한 문제 (풀예정)
