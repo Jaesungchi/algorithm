@@ -126,6 +126,8 @@ https://www.acmicpc.net/problem/10866 //덱 난이도 ★ //deque
 
 https://www.acmicpc.net/problem/10808 //알파벳 개수 난이도 ★
 
+https://www.acmicpc.net/problem/10809 //알파벳 찾기 난이도 ★
+
 
 
 시도 했지만 풀지 못한 문제 (풀예정)
