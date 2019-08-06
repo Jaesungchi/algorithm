@@ -120,6 +120,8 @@ https://www.acmicpc.net/problem/9012 //괄호  난이도 ★
 
 https://www.acmicpc.net/problem/10799 //쇠막대기 난이도 ★★ //stack
 
+https://www.acmicpc.net/problem/10845 //큐 난이도 ★ //queue
+
 
 
 시도 했지만 풀지 못한 문제 (풀예정)
