@@ -136,6 +136,8 @@ https://www.acmicpc.net/problem/11655 //ROT13 난이도★
 
 https://www.acmicpc.net/problem/10824 //네 수 난이도 ★
 
+https://www.acmicpc.net/problem/11656 //접미사 배열 난이도 ★ //sort
+
 
 
 시도 했지만 풀지 못한 문제 (풀예정)
