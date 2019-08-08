@@ -40,6 +40,10 @@ https://www.acmicpc.net/problem/14500 //테트로미노 난이도 ★★
 
 https://www.acmicpc.net/problem/14889 //스타트와 링크 난이도★★
 
+DFS
+
+https://www.acmicpc.net/problem/10026 //적녹색약 난이도 ★★★
+
 BFS
 
 https://www.acmicpc.net/problem/3184 //양 난이도★★(DFS로 품)
