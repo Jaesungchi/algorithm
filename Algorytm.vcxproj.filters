@@ -225,5 +225,8 @@
     <ClCompile Include="BFS10026.cpp">
       <Filter>소스 파일\Baekjoon</Filter>
     </ClCompile>
+    <ClCompile Include="DP4811.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
