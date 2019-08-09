@@ -100,6 +100,8 @@ https://www.acmicpc.net/problem/11052 //카드구매하기 난이도 ★★
 
 https://www.acmicpc.net/problem/4811 //알약 난이도 ★★★
 
+https://www.acmicpc.net/problem/14501 //퇴사 난이도 ★★★
+
 기타
 
 https://www.acmicpc.net/problem/13458 //시험감독 난이도★
