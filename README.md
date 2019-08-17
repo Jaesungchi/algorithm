@@ -28,6 +28,8 @@ https://www.acmicpc.net/problem/17144 //미세먼지 안녕! 난이도 ★★
 
 https://www.acmicpc.net/problem/5373 //큐빙 난이도★★★
 
+https://www.acmicpc.net/problem/14502 //연구소 난이도 ★★★
+
 브루트포스
 
 https://www.acmicpc.net/problem/15661 //링크와 스타트 난이도★★
@@ -151,8 +153,6 @@ https://www.acmicpc.net/problem/11656 //접미사 배열 난이도 ★ //sort
 
 
 시도 했지만 풀지 못한 문제 (풀예정)
-
-https://www.acmicpc.net/problem/14502 //연구소 (재귀가 제대로 돌지 않음)
 
 https://www.acmicpc.net/problem/5213 //과외맨 (데이터 관리가 무척 힘듬)
 
