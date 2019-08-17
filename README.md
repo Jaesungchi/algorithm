@@ -26,6 +26,8 @@ SW Expert Academy 1953 // 탈주범검거 난이도★★★
 
 https://www.acmicpc.net/problem/17144 //미세먼지 안녕! 난이도 ★★
 
+https://www.acmicpc.net/problem/5373 //큐빙 난이도★★★
+
 브루트포스
 
 https://www.acmicpc.net/problem/15661 //링크와 스타트 난이도★★
