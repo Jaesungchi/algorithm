@@ -234,7 +234,10 @@
     <ClCompile Include="S5373.cpp">
       <Filter>소스 파일\Baekjoon</Filter>
     </ClCompile>
-    <ClCompile Include="S14502p.cpp">
+    <ClCompile Include="S14502.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="S14503.cpp">
       <Filter>소스 파일\Baekjoon</Filter>
     </ClCompile>
   </ItemGroup>
