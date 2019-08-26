@@ -48,6 +48,8 @@ https://www.acmicpc.net/problem/14500 //테트로미노 난이도 ★★
 
 https://www.acmicpc.net/problem/14889 //스타트와 링크 난이도★★
 
+https://www.acmicpc.net/problem/14888 //연산자끼워넣기 난이도★★
+
 DFS
 
 https://www.acmicpc.net/problem/10026 //적녹색약 난이도 ★★★
