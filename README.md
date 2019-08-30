@@ -36,6 +36,8 @@ https://www.acmicpc.net/problem/16235 //나무재태크 난이도 ★★★★
 
 https://www.acmicpc.net/problem/17143 //낚시왕 난이도 ★★★
 
+https://www.acmicpc.net/problem/12100 //2048(easy) 난이도 ★★★
+
 브루트포스
 
 https://www.acmicpc.net/problem/15661 //링크와 스타트 난이도★★
