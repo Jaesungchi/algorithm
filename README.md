@@ -56,6 +56,8 @@ https://www.acmicpc.net/problem/14888 //연산자끼워넣기 난이도★★
 
 https://www.acmicpc.net/problem/15684 //사다리 조작 난이도 ★★★
 
+https://www.acmicpc.net/problem/15683 //감시 난이도★★
+
 DFS
 
 https://www.acmicpc.net/problem/10026 //적녹색약 난이도 ★★★
@@ -169,10 +171,6 @@ https://www.acmicpc.net/problem/11656 //접미사 배열 난이도 ★ //sort
 https://www.acmicpc.net/problem/5213 //과외맨 (데이터 관리가 무척 힘듬)
 
 https://www.acmicpc.net/problem/16707 //American Tour (벨만포드 적용 매우 어렵 ;;)
-
-예시는 다 맞으나 틀렸다고 뜨는 문제 (어디가 틀렸는지 못찾음)
-
-https://www.acmicpc.net/problem/15683 //감시
 
 ---
 

@@ -3,124 +3,90 @@ using namespace std;
 
 //https://www.acmicpc.net/problem/15683 //감시
 
-int map[9][9], tempMap[9][9];
-int N, M, CameraCount = 0;
-int cameraState[8][4]; //0은 북쪽 1은 동쪽 2는 남쪽 3은 서쪽으로 통일.
-int minBlind = 999999;
+int maps[9][9], dx[4] = { 1,0,-1,0 }, dy[4] = { 0,1,0,-1 }, N, M, m_min =9999999;
+int cctv[8][3], cctvCnt=0; //cctv 0 = y , 1 = x, 2 = 어떤건지;
 
-void ResetMap() {
-	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < M; j++)
-			map[i][j] = tempMap[i][j];
+void Search(int mx, int my, int dir, int dir2) {
+	while (true) { //일단 한 방향으로 보냄
+		mx += dx[(dir + dir2) % 4];
+		my += dy[(dir + dir2) % 4];
+		if (mx < 0 || my < 0 || mx >= M || my >= N)
+			break;
+		if (maps[my][mx] == 6) //벽인 경우
+			break;
+		maps[my][mx] = 7;
 	}
 }
 
-void CheckBlind() {
-	int sum = 0;
-	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < M; j++) {
-			if (map[i][j] == 0)
-				sum += 1;
-		}
-	}
-	if (minBlind > sum) {
-		minBlind = sum;
-	}
-	ResetMap();
-}
+void RunCCTV(int dir,int cctvNum) {
+	int mx = cctv[cctvNum][1];
+	int my = cctv[cctvNum][0];
+	int what = cctv[cctvNum][2];
 
-
-void GetGround(int i, int j, int dir) {
-	switch (dir) {
-	case 0: // 북쪽을 쐈을때
-		for (int k = 0; k < 8; k++) {
-			if (i - k >= 0 && map[i - k][j] != 6)
-				map[i - k][j] = 9;
-			else
-				break;
-		}
-		break;
-	case 1: //동쪽을 쐈을때
-		for (int k = 0; k < 8; k++) {
-			if (j + k < M && map[i][j + k] != 6)
-				map[i][j + k] = 9;
-			else
-				break;
-		}
-		break;
-	case 2: //남쪽을 쐈을때
-		for (int k = 0; k < 8; k++) {
-			if (i + k < N && map[i + k][j] != 6)
-				map[i + k][j] = 9;
-			else
-				break;
-		}
-		break;
-	case 3: //서쪽을 쐈을때
-		for (int k = 0; k < 8; k++) {
-			if (j - k >= 0 && map[i][j - k] != 6)
-				map[i][j - k] = 9;
-			else
-				break;
-		}
-		break;
-	}
-}
-
-void CheckCamera(int i, int j, int num, int dir) {
-	switch (num) {
-	case 1:
-		GetGround(i, j, dir);
-		break;
-	case 2:
-		GetGround(i, j, dir);
-		GetGround(i, j, (dir + 2) % 4);
+	Search(mx, my, dir, 0);
+	switch (what) {
+	case 2: //앞 뒤
+		Search(mx, my, dir, 2);
 		break;
 	case 3:
-		GetGround(i, j, dir);
-		GetGround(i, j, (dir - 1) % 4);
+		Search(mx, my, dir, 3);
 		break;
 	case 4:
-		GetGround(i, j, dir);
-		GetGround(i, j, (dir - 1) % 4);
-		GetGround(i, j, (dir + 1) % 4);
+		Search(mx, my, dir, 2);
+		Search(mx, my, dir, 3);
 		break;
-	case 5: // 4방향 모두 가져온다.
-		for (int k = 0; k < 4; k++)
-			GetGround(i, j, k);
+	case 5:
+		Search(mx, my, dir, 1);
+		Search(mx, my, dir, 2);
+		Search(mx, my, dir, 3);
+		break;
+	default:
 		break;
 	}
 }
 
-void ShotCamera(int CountReturn) {
-	if (CountReturn == CameraCount) {
-		for (int i = 0; i < CameraCount; i++) {
-			CheckCamera(cameraState[i][0], cameraState[i][1], cameraState[i][2], cameraState[i][3]);
+
+void Runs(int counts) {
+	if (cctvCnt == counts) {
+		int s_sum = 0;
+		for(int i = 0; i < N; i++)
+			for (int j = 0; j < M; j++)
+				if (maps[i][j] == 0) //맵을 다 돌면서 빈칸을 가져온다.
+					s_sum++;
+		if (m_min > s_sum) { //
+			m_min = s_sum; 
 		}
-		CheckBlind();
 		return;
 	}
-	for (int i = 0; i < 4; i++) { //재귀를 돌려서 확인 시킨다.
-		cameraState[CountReturn][3] = i;
-		ShotCamera(CountReturn + 1);
+	
+	int tmaps[9][9];
+	for (int i = 0; i < N; i++)
+		for (int j = 0; j < M; j++)
+			tmaps[i][j] = maps[i][j];
+	for (int k = 0; k < 4; k++) {
+		RunCCTV(k, counts);
+		Runs(counts + 1);
+		for (int i = 0; i < N; i++)
+			for (int j = 0; j < M; j++)
+				maps[i][j] = tmaps[i][j];
 	}
 }
 
 int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	cout.tie(NULL);
 	cin >> N >> M;
-	for (int i = 0; i < N; i++) {
+	for (int i = 0; i < N; i++)
 		for (int j = 0; j < M; j++) {
-			cin >> map[i][j];
-			tempMap[i][j] = map[i][j];
-			if (map[i][j] > 0 && map[i][j] < 6) { //카메라인지 확인 후 데이터를 넣는다.
-				cameraState[CameraCount][0] = i; //수직 좌표
-				cameraState[CameraCount][1] = j; //수평 좌표
-				cameraState[CameraCount][2] = map[i][j]; //어떤 종류인지
-				cameraState[CameraCount][3] = 0; //default로 위를 보게한다.
-				CameraCount += 1;
+			cin >> maps[i][j];
+			if (maps[i][j] > 0 && maps[i][j] < 6) {
+				cctv[cctvCnt][0] = i;// y좌표
+				cctv[cctvCnt][1] = j;// x좌표
+				cctv[cctvCnt][2] = maps[i][j]; //cctv 종류
+				cctvCnt++;
 			}
 		}
-	}
-	ShotCamera(0);
-	cout << minBlind;
+	Runs(0);
+	cout << m_min << "\n";
 }
