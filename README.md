@@ -172,6 +172,8 @@ https://www.acmicpc.net/problem/10824 //네 수 난이도 ★
 
 https://www.acmicpc.net/problem/11656 //접미사 배열 난이도 ★ //sort
 
+https://www.acmicpc.net/problem/15666 //NXM (12) 난이도★★
+
 icpc 대비 문제
 
 https://www.acmicpc.net/problem/16360 //Go Latin 난이도 ★
