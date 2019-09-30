@@ -176,6 +176,8 @@ https://www.acmicpc.net/problem/15666 //NXM (12) 난이도★★
 
 https://www.acmicpc.net/problem/15665 //NXM (11) 난이도★★
 
+https://www.acmicpc.net/problem/15664 //NXM (10) 난이도★
+
 icpc 대비 문제
 
 https://www.acmicpc.net/problem/16360 //Go Latin 난이도 ★
