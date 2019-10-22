@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Samsung">
       <UniqueIdentifier>{7e9e4663-786c-4661-89bb-4ab5a37e0de1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\codeforce">
+      <UniqueIdentifier>{1b335705-1adf-4b5b-9e0d-35a1201006ed}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BELL16707.cpp">
@@ -308,6 +311,18 @@
     </ClCompile>
     <ClCompile Include="ETC15657.cpp">
       <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="590_A.cpp">
+      <Filter>소스 파일\codeforce</Filter>
+    </ClCompile>
+    <ClCompile Include="590_B.cpp">
+      <Filter>소스 파일\codeforce</Filter>
+    </ClCompile>
+    <ClCompile Include="590_B2.cpp">
+      <Filter>소스 파일\codeforce</Filter>
+    </ClCompile>
+    <ClCompile Include="590_C%27.cpp">
+      <Filter>소스 파일\codeforce</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
