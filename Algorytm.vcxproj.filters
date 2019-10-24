@@ -324,5 +324,17 @@
     <ClCompile Include="590_C%27.cpp">
       <Filter>소스 파일\codeforce</Filter>
     </ClCompile>
+    <ClCompile Include="595_A.cpp">
+      <Filter>소스 파일\codeforce</Filter>
+    </ClCompile>
+    <ClCompile Include="595_B(easy).cpp">
+      <Filter>소스 파일\codeforce</Filter>
+    </ClCompile>
+    <ClCompile Include="595_C%28easy%29.cpp">
+      <Filter>소스 파일\codeforce</Filter>
+    </ClCompile>
+    <ClCompile Include="595_D(easy).cpp">
+      <Filter>소스 파일\codeforce</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
