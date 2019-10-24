@@ -336,5 +336,8 @@
     <ClCompile Include="595_D(easy).cpp">
       <Filter>소스 파일\codeforce</Filter>
     </ClCompile>
+    <ClCompile Include="GA11399.cpp">
+      <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
