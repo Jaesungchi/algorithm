@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\codeforce">
       <UniqueIdentifier>{1b335705-1adf-4b5b-9e0d-35a1201006ed}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Programmers">
+      <UniqueIdentifier>{1ece2a1e-1bfa-451e-968f-63c4ab8b9125}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BELL16707.cpp">
@@ -341,6 +344,15 @@
     </ClCompile>
     <ClCompile Include="GA11047.cpp">
       <Filter>소스 파일\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="윈터코딩 1차 2번.cpp">
+      <Filter>소스 파일\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="윈터코딩 1차 1번.cpp">
+      <Filter>소스 파일\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="윈터코딩 1차 3번.cpp">
+      <Filter>소스 파일\Programmers</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
