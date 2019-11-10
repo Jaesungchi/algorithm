@@ -4,7 +4,7 @@ using namespace std;
 //https://www.acmicpc.net/problem/2503 숫자 야구
 
 int numbers[1000];
-int N,check[101][3],counts = 0;
+int N,boolCheck[101][3],counts = 0;
 
 int CheckStrike(int a1, int a2, int a3, int b1, int b2, int b3) {
 	int strike = 0;
@@ -34,7 +34,7 @@ int main() {
 	cout.tie(NULL);
 	cin >> N;
 	for (int i = 0; i < N; i++)
-		cin >> check[i][0] >> check[i][1] >> check[i][2];
+		cin >> boolCheck[i][0] >> boolCheck[i][1] >> boolCheck[i][2];
 	for (int i = 123; i <= 987; i++) {
 		int a3 = i % 10;
 		int a2 = ((i % 100) - a3) / 10;
@@ -42,13 +42,13 @@ int main() {
 		if (a3 == 0 || a2 == 0 || a1 == 0 || a1 == a2 || a2 == a3 || a1 == a3)
 			continue;
 		for (int j = 0; j < N; j++) {
-			int b3 = check[j][0] % 10;
-			int b2 = ((check[j][0] % 100)- b3) / 10;
-			int b1 = (check[j][0] - (b2 * 10) - b3) / 100;
+			int b3 = boolCheck[j][0] % 10;
+			int b2 = ((boolCheck[j][0] % 100)- b3) / 10;
+			int b1 = (boolCheck[j][0] - (b2 * 10) - b3) / 100;
 			int strike = 0, ball = 0;
 			strike = CheckStrike(a1, a2, a3, b1, b2, b3);
 			ball = CheckBall(a1, a2, a3, b1, b2, b3);
-			if (strike == check[j][1] && ball == check[j][2])
+			if (strike == boolCheck[j][1] && ball == boolCheck[j][2])
 				numbers[i]++;
 		}
 		if (numbers[i] == N)

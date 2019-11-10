@@ -4,7 +4,7 @@ using namespace std;
 //삼성 1949 등산로 조성
 
 int dx[4] = { 0,0,-1,1 }, dy[4] = { -1,1,0,0 } ,maps[8][8];
-int k,d_max,out_max= 0;
+int goodSet,d_max,out_max= 0;
 bool visited[8][8];
 
 struct checkPoint {
@@ -27,7 +27,7 @@ void dfs(checkPoint x1) {
 		if (x1.h > x2.h)
 			flag = true;
 		else {
-			if (!x1.chk && x1.h > x2.h - k) {
+			if (!x1.chk && x1.h > x2.h - goodSet) {
 				x2.chk = true;
 				x2.h = x1.h - 1;
 				flag = true;
@@ -46,7 +46,7 @@ void dfs(checkPoint x1) {
 void StartTest() {
 	int tempMax = 0, map[8][8];
 	out_max = 0;
-	cin >> d_max >> k;
+	cin >> d_max >> goodSet;
 	for (int i = 0; i < d_max; i++)
 		for (int j = 0; j < d_max; j++) {
 			cin >> map[i][j];

@@ -1,30 +1,30 @@
 ﻿#include <iostream>
 using namespace std;
 
-int n, k,temp,sizes = 0;
+int n, goodSet,temp,sizes = 0;
 long arr[201];
 
 //대화를 k번 보여줄 수 있다. 처음은 0
 //n개의 메세지를 받으면 i번째 메세지는 ID에게 받는다는걸 알게 된다.
 
 void insert(int ins) {
-	for (int i = 0; i < k; i++) {
+	for (int i = 0; i < goodSet; i++) {
 		if (arr[i] == ins) //같은게 있다면 아웃.
 			return;
 	}
 	int temp = arr[0],temp2;
 	arr[0] = ins;
-	for (int i = 1; i < k; i++) {
+	for (int i = 1; i < goodSet; i++) {
 		temp2 = arr[i];
 		arr[i] = temp;
 		temp = temp2;
 	}
-	if (sizes < k)
+	if (sizes < goodSet)
 		sizes++;
 }
 
 int main() {
-	cin >> n >> k;
+	cin >> n >> goodSet;
 	for (int i = 0; i < n; i++) {
 		cin >> temp;
 		insert(temp);

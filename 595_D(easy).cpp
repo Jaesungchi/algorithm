@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-int  n, k, maps[201][2], datas[201] = { 0 }; //datas가 얼마나 쌓이는지 알려줌
+int  n, goodSet, maps[201][2], datas[201] = { 0 }; //datas가 얼마나 쌓이는지 알려줌
 int output = 201, outs[201], msum = 0, mins = 201, maxs = 0;
 bool checks[201];
 void runs(int index, int counts) {
 	if (index == n) {
 		int sums = 0;
 		for (int i = mins; i <= maxs; i++) {
-			if (datas[i] > k) //하나라도 크면 종료
+			if (datas[i] > goodSet) //하나라도 크면 종료
 				return;
 			sums += datas[i];
 		}
@@ -32,7 +32,7 @@ void runs(int index, int counts) {
 }
 
 int main() {
-	cin >> n >> k;
+	cin >> n >> goodSet;
 	for (int i = 0; i < n; i++) {
 		cin >> maps[i][0] >> maps[i][1];
 		mins = mins > maps[i][0] ? maps[i][0] : mins;

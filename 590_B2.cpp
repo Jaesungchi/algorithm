@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int n, k, temp, sizes = 0,index = 0;
+int n, goodSet, temp, sizes = 0,index = 0;
 long arr[200201];
 
 //대화를 k번 보여줄 수 있다. 처음은 0
@@ -13,12 +13,12 @@ void insert(int ins) {
 			return;
 	}
 	arr[index++] = ins;
-	if (sizes < k)
+	if (sizes < goodSet)
 		sizes++;
 }
 
 int main() {
-	cin >> n >> k;
+	cin >> n >> goodSet;
 	for (int i = 0; i < n; i++) {
 		cin >> temp;
 		insert(temp);
