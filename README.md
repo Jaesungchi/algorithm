@@ -44,6 +44,8 @@ https://www.acmicpc.net/problem/17070 //파이프 옮기기 1 난이도★★
 
 https://www.acmicpc.net/problem/17135 //캐슬 디펜스 난이도 ★★
 
+https://www.acmicpc.net/problem/17471 //개리맨더링 난이도★★★
+
 브루트포스
 
 https://www.acmicpc.net/problem/15661 //링크와 스타트 난이도★★
