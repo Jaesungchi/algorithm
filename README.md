@@ -88,6 +88,8 @@
 
 [스타트링크 난이도★](https://www.acmicpc.net/problem/5014)
 
+[소수 경로 난이도 ★★★](https://www.acmicpc.net/problem/1963)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)
