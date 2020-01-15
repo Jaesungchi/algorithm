@@ -80,6 +80,8 @@
 
 [가르침 난이도 ★★★](https://www.acmicpc.net/problem/1062)
 
+[프린터 큐 난이도 ★★](https://www.acmicpc.net/problem/1966)
+
 ### DFS
 
 [적녹색약 난이도 ★★★](https://www.acmicpc.net/problem/10026)
