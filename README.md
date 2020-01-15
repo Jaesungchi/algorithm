@@ -78,6 +78,8 @@
 
 [탈출 난이도 ★★★](https://www.acmicpc.net/problem/3055)
 
+[가르침 난이도 ★★★](https://www.acmicpc.net/problem/1062)
+
 ### DFS
 
 [적녹색약 난이도 ★★★](https://www.acmicpc.net/problem/10026)
