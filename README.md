@@ -82,6 +82,8 @@
 
 [프린터 큐 난이도 ★★](https://www.acmicpc.net/problem/1966)
 
+[로봇 시뮬레이션 난이도 ★★](https://www.acmicpc.net/problem/2174)
+
 ### DFS
 
 [적녹색약 난이도 ★★★](https://www.acmicpc.net/problem/10026)
