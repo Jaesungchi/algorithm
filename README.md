@@ -48,7 +48,17 @@
 
 [개리맨더링 난이도★★★](https://www.acmicpc.net/problem/17471)
 
-브루트포스
+[탈출 난이도 ★★★](https://www.acmicpc.net/problem/3055)
+
+[가르침 난이도 ★★★](https://www.acmicpc.net/problem/1062)
+
+[프린터 큐 난이도 ★★](https://www.acmicpc.net/problem/1966)
+
+[로봇 시뮬레이션 난이도 ★★](https://www.acmicpc.net/problem/2174)
+
+[거짓말 난이도★★★](https://www.acmicpc.net/problem/1043)
+
+### 브루트포스
 
 [링크와 스타트 난이도★★](https://www.acmicpc.net/problem/15661)
 
@@ -75,14 +85,6 @@
 [책페이지 난이도 ★★★★](https://www.acmicpc.net/problem/1019)
 
 [리모콘 난이도 ★★★★](https://www.acmicpc.net/submit/1107)
-
-[탈출 난이도 ★★★](https://www.acmicpc.net/problem/3055)
-
-[가르침 난이도 ★★★](https://www.acmicpc.net/problem/1062)
-
-[프린터 큐 난이도 ★★](https://www.acmicpc.net/problem/1966)
-
-[로봇 시뮬레이션 난이도 ★★](https://www.acmicpc.net/problem/2174)
 
 ### DFS
 
@@ -177,8 +179,6 @@
 [쇠막대기 난이도 ★★](https://www.acmicpc.net/problem/10799)
 
 [DFS와 BFS 난이도 기본](https://www.acmicpc.net/problem/1260)
-
-
 
 ## 시도 했지만 풀지 못한 문제 (풀예정)
 
