@@ -104,6 +104,8 @@
 
 [소수 경로 난이도 ★★★](https://www.acmicpc.net/problem/1963)
 
+[상범빌딩 난이도★★★](https://www.acmicpc.net/problem/6593)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)
