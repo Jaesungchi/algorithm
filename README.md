@@ -96,6 +96,8 @@
 
 [알파벳 난이도★★](https://www.acmicpc.net/problem/1987)
 
+[빙산 난이도★★](https://www.acmicpc.net/problem/2573)
+
 ### BFS
 
 [스타트링크 난이도★](https://www.acmicpc.net/problem/5014)
