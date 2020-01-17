@@ -94,6 +94,8 @@
 
 [연결 요소의 개수 난이도★](https://www.acmicpc.net/problem/11724)
 
+[알파벳 난이도★★](https://www.acmicpc.net/problem/1987)
+
 ### BFS
 
 [스타트링크 난이도★](https://www.acmicpc.net/problem/5014)
