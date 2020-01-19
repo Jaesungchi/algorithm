@@ -160,6 +160,8 @@
 
 [내리막 길 난이도 ★★★](https://www.acmicpc.net/problem/1520)
 
+[내려가기 난이도★★](https://www.acmicpc.net/problem/2096)
+
 ### 그리드 알고리즘(탐욕 알고리즘)
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
