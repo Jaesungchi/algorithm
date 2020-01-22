@@ -168,6 +168,8 @@
 
 [컨닝 난이도★★★★★](https://www.acmicpc.net/problem/1014)
 
+[감소하는 수 난이도★★★](https://www.acmicpc.net/problem/1038)
+
 ### 그리드 알고리즘(탐욕 알고리즘)
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
