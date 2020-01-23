@@ -170,6 +170,8 @@
 
 [감소하는 수 난이도★★★](https://www.acmicpc.net/problem/1038)
 
+[줄 세우기 난이도★★](https://www.acmicpc.net/problem/2631)
+
 ### 그리드 알고리즘(탐욕 알고리즘)
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
