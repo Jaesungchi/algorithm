@@ -86,6 +86,8 @@
 
 [리모콘 난이도 ★★★★](https://www.acmicpc.net/submit/1107)
 
+[미친 로봇 난이도★★](https://www.acmicpc.net/problem/1405)
+
 ### DFS
 
 [적녹색약 난이도 ★★★](https://www.acmicpc.net/problem/10026)
