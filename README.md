@@ -108,6 +108,8 @@
 
 [상범빌딩 난이도★★★](https://www.acmicpc.net/problem/6593)
 
+[벽 부수고 이동하기 2 난이도★★](https://www.acmicpc.net/problem/14442)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)
