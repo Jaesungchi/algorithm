@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Baekjoon\BFS\BFS14442.cpp">
+    <ClCompile Include="BFS2206.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
