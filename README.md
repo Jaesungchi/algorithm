@@ -180,6 +180,8 @@
 
 [행렬 곱셈 순서 난이도★★★](https://www.acmicpc.net/problem/11049)
 
+[반도체 설계 난이도★★★](https://www.acmicpc.net/problem/2352)
+
 ### 그리드 알고리즘(탐욕 알고리즘)
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
