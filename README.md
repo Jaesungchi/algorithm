@@ -100,6 +100,8 @@
 
 [빙산 난이도★★](https://www.acmicpc.net/problem/2573)
 
+[맥주 마시면서 걸어가기 난이도★★](https://www.acmicpc.net/problem/9205)
+
 ### BFS
 
 [스타트링크 난이도★](https://www.acmicpc.net/problem/5014)
