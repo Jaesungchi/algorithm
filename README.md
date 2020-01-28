@@ -220,6 +220,8 @@
 
 [전깃줄 2 난이도★★★★(LIS응용)](https://www.acmicpc.net/problem/2568)
 
+[저울 난이도★★(Greedy)](https://www.acmicpc.net/problem/2437)
+
 ## 시도 했지만 풀지 못한 문제 (풀예정)
 
 https://www.acmicpc.net/problem/5213 //과외맨 (데이터 관리가 무척 힘듬)
