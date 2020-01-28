@@ -222,6 +222,8 @@
 
 [저울 난이도★★(Greedy)](https://www.acmicpc.net/problem/2437)
 
+[궁금한 민호 난이도★★★(Floyd-Wallshell)](https://www.acmicpc.net/problem/1507)
+
 ## 시도 했지만 풀지 못한 문제 (풀예정)
 
 https://www.acmicpc.net/problem/5213 //과외맨 (데이터 관리가 무척 힘듬)
