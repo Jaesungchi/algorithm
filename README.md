@@ -186,6 +186,8 @@
 
 [반도체 설계 난이도★★★](https://www.acmicpc.net/problem/2352)
 
+[평범한 배낭 난이도★★](https://www.acmicpc.net/problem/12865)
+
 ### 그리드 알고리즘(탐욕 알고리즘)
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
