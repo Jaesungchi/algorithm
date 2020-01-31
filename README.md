@@ -58,6 +58,8 @@
 
 [거짓말 난이도★★★](https://www.acmicpc.net/problem/1043)
 
+[색종이붙이기 난이도★★★](https://www.acmicpc.net/problem/17136)
+
 ### 브루트포스
 
 [링크와 스타트 난이도★★](https://www.acmicpc.net/problem/15661)
