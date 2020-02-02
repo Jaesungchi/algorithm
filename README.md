@@ -60,6 +60,8 @@
 
 [색종이붙이기 난이도★★★](https://www.acmicpc.net/problem/17136)
 
+[벽 부수고 이동하기4 난이도★★](https://www.acmicpc.net/problem/16946)
+
 ### 브루트포스
 
 [링크와 스타트 난이도★★](https://www.acmicpc.net/problem/15661)
