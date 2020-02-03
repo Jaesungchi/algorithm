@@ -64,6 +64,8 @@
 
 [인구 이동 난이도★★](https://www.acmicpc.net/problem/16234)
 
+[아기 상어 난이도★★](https://www.acmicpc.net/problem/16236)
+
 ### 브루트포스
 
 [링크와 스타트 난이도★★](https://www.acmicpc.net/problem/15661)
