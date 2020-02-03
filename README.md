@@ -62,6 +62,8 @@
 
 [벽 부수고 이동하기4 난이도★★](https://www.acmicpc.net/problem/16946)
 
+[인구 이동 난이도★★](https://www.acmicpc.net/problem/16234)
+
 ### 브루트포스
 
 [링크와 스타트 난이도★★](https://www.acmicpc.net/problem/15661)
