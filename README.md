@@ -244,6 +244,8 @@
 
 [별찍기-12](https://www.acmicpc.net/problem/2522)
 
+[별찍기-13](https://www.acmicpc.net/problem/2523)
+
 ## 시도 했지만 풀지 못한 문제 (풀예정)
 
 https://www.acmicpc.net/problem/5213 //과외맨 (데이터 관리가 무척 힘듬)
