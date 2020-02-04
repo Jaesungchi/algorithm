@@ -244,7 +244,7 @@
 
 ## 코틀린으로 구현한 알고리즘
 
-[QuickSort 구현]((https://github.com/Jaesungchi/algorithm/blob/master/코틀린기초/quickSort.kt))
+[QuickSort 구현](https://github.com/Jaesungchi/algorithm/blob/master/코틀린기초/quickSort.kt)
 
 ## 백준 문제
 
