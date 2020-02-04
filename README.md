@@ -238,6 +238,10 @@
 
 [최단경로 난이도★★★(다익스트라)](https://www.acmicpc.net/problem/1753)
 
+# 코틀린 기초
+
+[배수찾기](https://www.acmicpc.net/problem/4504)
+
 ## 시도 했지만 풀지 못한 문제 (풀예정)
 
 https://www.acmicpc.net/problem/5213 //과외맨 (데이터 관리가 무척 힘듬)
