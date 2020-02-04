@@ -2,6 +2,8 @@
 
 ![imge](https://img.shields.io/badge/ProjectType-SingleStudy-green) ![imge](https://img.shields.io/badge/Language-C++-yellow) ![imge](https://img.shields.io/badge/Tools-VisualStudio-blue)
 
+![imge](https://img.shields.io/badge/Language-Kotlin-yellow) ![imge](https://img.shields.io/badge/Tools-IntelliJ-blue)
+
 ## 현재 푼 문제
 
 ### 시뮬레이션
@@ -239,6 +241,12 @@
 [최단경로 난이도★★★(다익스트라)](https://www.acmicpc.net/problem/1753)
 
 # 코틀린 기초
+
+## 코틀린으로 구현한 알고리즘
+
+[QuickSort 구현]((https://github.com/Jaesungchi/algorithm/blob/master/코틀린기초/quickSort.kt))
+
+## 백준 문제
 
 [배수찾기](https://www.acmicpc.net/problem/4504)
 
