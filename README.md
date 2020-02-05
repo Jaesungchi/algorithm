@@ -211,6 +211,8 @@
 
 [평범한 배낭 난이도★★](https://www.acmicpc.net/problem/12865)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/DP/DP12865.kt)
 
+[정수 삼각형 난이도★](https://www.acmicpc.net/problem/1932)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/DP/DP1932.kt)
+
 ### GREEDY
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
