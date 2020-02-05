@@ -4,7 +4,20 @@
 
 ![imge](https://img.shields.io/badge/Language-Kotlin-yellow) ![imge](https://img.shields.io/badge/Tools-IntelliJ-blue)
 
-## 현재 푼 문제
+- 주석을 보면 어떻게 풀었는지 대충 감을 잡을 수 있다.
+- 난이도가 너무 쉬운것은 포함하지 않았다.
+- 코틀린으로 푼 문제는 옆에 표시를 해두었다. 코드를 볼 수 있다.
+- 링크는 문제로 연결됩니다.
+
+# 문제 분류
+
+- [시뮬레이션](https://github.com/Jaesungchi/algorithm#시뮬레이션)
+- [BF](https://github.com/Jaesungchi/algorithm#BF)
+- [DFS](https://github.com/Jaesungchi/algorithm#DFS)
+- [BFS](https://github.com/Jaesungchi/algorithm#BFS)
+- [DP](https://github.com/Jaesungchi/algorithm#DP)
+- [GREEDY](https://github.com/Jaesungchi/algorithm#GREEDY)
+- [기타](https://github.com/Jaesungchi/algorithm#기타)
 
 ### 시뮬레이션
 
@@ -68,7 +81,7 @@
 
 [아기 상어 난이도★★](https://www.acmicpc.net/problem/16236)
 
-### 브루트포스
+### BF
 
 [링크와 스타트 난이도★★](https://www.acmicpc.net/problem/15661)
 
@@ -196,9 +209,9 @@
 
 [반도체 설계 난이도★★★](https://www.acmicpc.net/problem/2352)
 
-[평범한 배낭 난이도★★](https://www.acmicpc.net/problem/12865)
+[평범한 배낭 난이도★★](https://www.acmicpc.net/problem/12865)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/DP/DP12865.kt)
 
-### 그리드 알고리즘(탐욕 알고리즘)
+### GREEDY
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
 
@@ -240,31 +253,10 @@
 
 [최단경로 난이도★★★(다익스트라)](https://www.acmicpc.net/problem/1753)
 
-# 코틀린 기초
+[배수찾기](https://www.acmicpc.net/problem/4504)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC4504.cpp)
 
-## 코틀린으로 구현한 알고리즘
+[별찍기-12](https://www.acmicpc.net/problem/2522)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2522.cpp)
 
-[QuickSort 구현](https://github.com/Jaesungchi/algorithm/blob/master/코틀린기초/quickSort.kt)
+[별찍기-13](https://www.acmicpc.net/problem/2523)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2523.cpp)
 
-## 백준 문제
-
-[배수찾기](https://www.acmicpc.net/problem/4504)
-
-[별찍기-12](https://www.acmicpc.net/problem/2522)
-
-[별찍기-13](https://www.acmicpc.net/problem/2523)
-
-[피보나치함수](https://www.acmicpc.net/problem/1003)
-
-## 시도 했지만 풀지 못한 문제 (풀예정)
-
-https://www.acmicpc.net/problem/5213 //과외맨 (데이터 관리가 무척 힘듬)
-
-https://www.acmicpc.net/problem/16707 //American Tour (벨만포드 적용 매우 어렵 ;;)
-
----
-
-주석을 보면 어떻게 풀었는지 대충 감을 잡을 수 있다.
-
-난이도가 너무 쉬운것은 포함하지 않았다.
-
+[피보나치함수](https://www.acmicpc.net/problem/1003)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC1003.cpp)
