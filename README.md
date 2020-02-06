@@ -125,6 +125,8 @@
 
 [맥주 마시면서 걸어가기 난이도★★](https://www.acmicpc.net/problem/9205)
 
+[금민수의 개수](https://www.acmicpc.net/problem/1527)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/DFS/DFS1527.kt)
+
 ### BFS
 
 [스타트링크 난이도★](https://www.acmicpc.net/problem/5014)
