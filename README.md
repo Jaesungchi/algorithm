@@ -143,6 +143,8 @@
 
 [미로 탐색](https://www.acmicpc.net/problem/2178)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BFS/BFS2178.kt)
 
+[말이 되고픈 원숭이 난이도★★](https://www.acmicpc.net/problem/1600)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)
