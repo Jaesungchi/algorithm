@@ -81,6 +81,8 @@
 
 [아기 상어 난이도★★](https://www.acmicpc.net/problem/16236)
 
+[Puyo Puyo 난이도★★](https://www.acmicpc.net/problem/11559)
+
 ### BF
 
 [링크와 스타트 난이도★★](https://www.acmicpc.net/problem/15661)
