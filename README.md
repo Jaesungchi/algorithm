@@ -225,6 +225,8 @@
 
 [정수 삼각형 난이도★](https://www.acmicpc.net/problem/1932)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/DP/DP1932.kt)
 
+[다이아몬드 광산 난이도★★★](https://www.acmicpc.net/problem/1028)
+
 ### GREEDY
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
