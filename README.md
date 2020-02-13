@@ -227,6 +227,8 @@
 
 [다이아몬드 광산 난이도★★★](https://www.acmicpc.net/problem/1028)
 
+[민균이의 계략 난이도★★](https://www.acmicpc.net/problem/11568)
+
 ### GREEDY
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
