@@ -278,3 +278,5 @@
 [별찍기-13](https://www.acmicpc.net/problem/2523)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2523.cpp)
 
 [피보나치함수](https://www.acmicpc.net/problem/1003)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC1003.cpp)
+
+[K번째 수 난이도★★(이분탐색)](https://www.acmicpc.net/problem/1300)
