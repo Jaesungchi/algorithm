@@ -17,6 +17,7 @@
 - [BFS](https://github.com/Jaesungchi/algorithm#BFS)
 - [DP](https://github.com/Jaesungchi/algorithm#DP)
 - [GREEDY](https://github.com/Jaesungchi/algorithm#GREEDY)
+- [Binary-Search](https://github.com/Jaesungchi/algorithm#Binary-Search)
 - [기타](https://github.com/Jaesungchi/algorithm#기타)
 
 ### 시뮬레이션
@@ -235,6 +236,16 @@
 
 [동전 0 난이도 ★](https://www.acmicpc.net/problem/11047)
 
+[택배 난이도★★★](https://www.acmicpc.net/problem/8980)
+
+[저울 난이도★★(Greedy)](https://www.acmicpc.net/problem/2437)
+
+### Binary-Search
+
+[수 찾기 난이도★](https://www.acmicpc.net/problem/1920)
+
+[K번째 수 난이도★★](https://www.acmicpc.net/problem/1300)
+
 ### 기타
 
 [시험감독 난이도★](https://www.acmicpc.net/problem/13458)
@@ -263,11 +274,7 @@
 
 [전깃줄 2 난이도★★★★(LIS응용)](https://www.acmicpc.net/problem/2568)
 
-[저울 난이도★★(Greedy)](https://www.acmicpc.net/problem/2437)
-
 [궁금한 민호 난이도★★★(Floyd-Wallshell)](https://www.acmicpc.net/problem/1507)
-
-[택배 난이도★★★(Greedy)](https://www.acmicpc.net/problem/8980)
 
 [최단경로 난이도★★★(다익스트라)](https://www.acmicpc.net/problem/1753)
 
@@ -279,4 +286,3 @@
 
 [피보나치함수](https://www.acmicpc.net/problem/1003)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC1003.cpp)
 
-[K번째 수 난이도★★(이분탐색)](https://www.acmicpc.net/problem/1300)
