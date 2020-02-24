@@ -286,3 +286,5 @@
 
 [피보나치함수](https://www.acmicpc.net/problem/1003)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC1003.cpp)
 
+[행성탐사 난이도★★](https://www.acmicpc.net/problem/5549)
+
