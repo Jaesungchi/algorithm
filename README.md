@@ -299,3 +299,5 @@
 [플로이드 난이도★★(Floyd-Wallshell)](https://www.acmicpc.net/problem/11404)
 
 [파티 난이도★★(Floyd-Wallshell)](https://www.acmicpc.net/problem/1238)
+
+[N-Queen](https://www.acmicpc.net/problem/9663)
