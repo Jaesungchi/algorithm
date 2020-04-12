@@ -232,6 +232,8 @@
 
 [민균이의 계략 난이도★★](https://www.acmicpc.net/problem/11568)
 
+[LCS 난이도★★](https://www.acmicpc.net/problem/9251)
+
 ### GREEDY
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
