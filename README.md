@@ -303,3 +303,5 @@
 [파티 난이도★★(Floyd-Wallshell)](https://www.acmicpc.net/problem/1238)
 
 [N-Queen](https://www.acmicpc.net/problem/9663)
+
+[제곱 ㄴㄴ 수 난이도★★★★](https://www.acmicpc.net/problem/1016)
