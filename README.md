@@ -307,3 +307,5 @@
 [제곱 ㄴㄴ 수 난이도★★★★](https://www.acmicpc.net/problem/1016)
 
 [단어 수학 난이도★★★](https://www.acmicpc.net/problem/1339)
+
+[좋은수열 난이도★★](https://www.acmicpc.net/problem/2661)
