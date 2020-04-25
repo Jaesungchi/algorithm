@@ -252,6 +252,8 @@
 
 [K번째 수 난이도★★](https://www.acmicpc.net/problem/1300)
 
+[개똥벌래 난이도★★](https://www.acmicpc.net/problem/3020)
+
 ### 기타
 
 [시험감독 난이도★](https://www.acmicpc.net/problem/13458)
