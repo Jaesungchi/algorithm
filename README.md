@@ -252,7 +252,11 @@
 
 [K번째 수 난이도★★](https://www.acmicpc.net/problem/1300)
 
+[합이 0인 네정수 난이도 ★★★](https://www.acmicpc.net/problem/7453)
+
 [개똥벌래 난이도★★](https://www.acmicpc.net/problem/3020)
+
+[중량제한 난이도★★★](https://www.acmicpc.net/problem/1939)
 
 ### 기타
 
@@ -315,5 +319,3 @@
 [좋은수열 난이도★★](https://www.acmicpc.net/problem/2661)
 
 [홍준 프로그래밍 대회 난이도★★★](https://www.acmicpc.net/problem/1222)
-
-[합이 0인 네정수 난이도 ★★★(이분탐색)](https://www.acmicpc.net/problem/7453)
