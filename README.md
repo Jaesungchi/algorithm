@@ -258,6 +258,8 @@
 
 [중량제한 난이도★★★](https://www.acmicpc.net/problem/1939)
 
+[기타 레슨 난이도★★](https://www.acmicpc.net/problem/2343)
+
 ### 기타
 
 [시험감독 난이도★](https://www.acmicpc.net/problem/13458)
