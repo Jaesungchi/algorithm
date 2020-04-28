@@ -260,6 +260,8 @@
 
 [기타 레슨 난이도★★](https://www.acmicpc.net/problem/2343)
 
+[휴게소 세우기 난이도★★★](https://www.acmicpc.net/problem/1477)
+
 ### 기타
 
 [시험감독 난이도★](https://www.acmicpc.net/problem/13458)
