@@ -262,6 +262,8 @@
 
 [휴게소 세우기 난이도★★★](https://www.acmicpc.net/problem/1477)
 
+[로봇 프로젝트 난이도★★](https://www.acmicpc.net/problem/3649)
+
 ### 기타
 
 [시험감독 난이도★](https://www.acmicpc.net/problem/13458)
