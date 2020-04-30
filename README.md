@@ -325,3 +325,5 @@
 [좋은수열 난이도★★](https://www.acmicpc.net/problem/2661)
 
 [홍준 프로그래밍 대회 난이도★★★](https://www.acmicpc.net/problem/1222)
+
+[고층 건물 난이도★★](https://www.acmicpc.net/problem/1027)
