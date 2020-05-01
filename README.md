@@ -156,6 +156,8 @@
 
 [DSLR 난이도★★](https://www.acmicpc.net/problem/9019)
 
+[암벽등반 난이도★★](https://www.acmicpc.net/problem/2412)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)
