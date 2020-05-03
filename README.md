@@ -160,6 +160,8 @@
 
 [보물섬 난이도★★](https://www.acmicpc.net/problem/2589)
 
+[로봇 난이도★★](https://www.acmicpc.net/problem/1726)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)
