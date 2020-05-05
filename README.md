@@ -272,6 +272,8 @@
 
 [로봇 프로젝트 난이도★★](https://www.acmicpc.net/problem/3649)
 
+[놀이공원 난이도★★★](https://www.acmicpc.net/problem/1561)
+
 ### 기타
 
 [시험감독 난이도★](https://www.acmicpc.net/problem/13458)
