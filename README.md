@@ -18,6 +18,7 @@
 - [DP](https://github.com/Jaesungchi/algorithm#DP)
 - [GREEDY](https://github.com/Jaesungchi/algorithm#GREEDY)
 - [Binary-Search](https://github.com/Jaesungchi/algorithm#Binary-Search)
+- [BackTracking](https://github.com/Jaesungchi/algorithm#BackTracking)
 - [기타](https://github.com/Jaesungchi/algorithm#기타)
 
 ### 시뮬레이션
@@ -273,6 +274,10 @@
 [로봇 프로젝트 난이도★★](https://www.acmicpc.net/problem/3649)
 
 [놀이공원 난이도★★★](https://www.acmicpc.net/problem/1561)
+
+### BackTracking
+
+[스도쿠 난이도★★★](https://www.acmicpc.net/problem/2580)
 
 ### 기타
 
