@@ -279,6 +279,8 @@
 
 [스도쿠 난이도★★★](https://www.acmicpc.net/problem/2580)
 
+[비숍 난이도★★★](https://www.acmicpc.net/problem/1799)
+
 ### 기타
 
 [시험감독 난이도★](https://www.acmicpc.net/problem/13458)
