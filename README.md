@@ -165,6 +165,8 @@
 
 [로봇 난이도★★](https://www.acmicpc.net/problem/1726)
 
+[숨바꼭질 3 난이도★★](https://www.acmicpc.net/problem/13549)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)
