@@ -169,6 +169,8 @@
 
 [트리의 지름 난이도★★](https://www.acmicpc.net/problem/1967)
 
+[알고스팟 난이도★](https://www.acmicpc.net/problem/1261)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)
