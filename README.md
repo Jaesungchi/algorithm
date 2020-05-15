@@ -253,6 +253,8 @@
 
 [LCS 난이도★★](https://www.acmicpc.net/problem/9251)
 
+[파일 합치기 난이도★★★](https://www.acmicpc.net/problem/11066)
+
 ### GREEDY
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
