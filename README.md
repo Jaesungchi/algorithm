@@ -171,6 +171,8 @@
 
 [알고스팟 난이도★](https://www.acmicpc.net/problem/1261)
 
+[과외맨 난이도★★](https://www.acmicpc.net/problem/5213)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)

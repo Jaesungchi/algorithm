@@ -1,64 +1,123 @@
-#include <iostream>;
-#include <queue>;
+ï»¿#include <iostream>
+#include <queue>
+#include <vector>
 using namespace std;
 
-//https://www.acmicpc.net/problem/5213 °ú¿Ü¸Ç
+//[ê³¼ì™¸ë§¨ ë‚œì´ë„â˜…â˜…](https://www.acmicpc.net/problem/5213)
+/*
+	ì‹œê°„ì„ ì˜¤ë˜ íˆ¬ìí•´ì•¼í•˜ëŠ” ë¬¸ì œ.
+	ë‚œì´ë„ëŠ” ì‰½ë‹¤.
+*/
 
-int N, map[501][1001], visit[501][1001];
+typedef struct Node {
+	int number;
+	int left, right;
+}P;
+
+int N;
+int lastNum = 1;
+vector<vector<P>> arr;
+bool chk[300000];
+int before[300000];
+int dy[6] = { -1,-1,0,0,1,1 }, dx1[6] = { -1,0,-1,1,-1,0 };
+int dx2[6] = { 0,1,-1,1,0,1 };
+
+bool CanGo(int y, int x, int ty, int tx) {
+	if (ty < 0 || ty >= N || tx < 0)
+		return false;
+	if (ty % 2 == 0 && tx >= N)
+		return false;
+	if (ty % 2 == 1 && tx >= N - 1)
+		return false;
+	if (y == ty) { //ì–‘ ì˜†ì„ í™•ì¸.
+		if (x < tx && arr[y][x].right == arr[ty][tx].left)//ì˜¤ë¥¸ìª½
+			return true; 
+		if (arr[y][x].left == arr[ty][tx].right)
+			return true;
+		return false;
+	}
+	//ìœ„ ì•„ë˜ë¥¼ í™•ì¸.
+	if (y % 2 == 0) { //ì§ìˆ˜ì¼ë•Œ.
+		if (x == tx) {
+			if (arr[y][x].right == arr[ty][tx].left)
+				return true;
+		}
+		else {
+			if (arr[y][x].left == arr[ty][tx].right)
+				return true;
+		}
+		return false;
+	}
+	if (x == tx){
+		if(arr[y][x].left == arr[ty][tx].right)
+			return true;
+	}
+	else {
+		if (arr[y][x].right == arr[ty][tx].left)
+			return true;
+	}
+	return false;
+}
+
+void BFS() {
+	queue<pair<int,int>> q;
+	vector<int> output;
+	output.push_back(1);
+	q.push(make_pair(0,0));
+	chk[1] = true;
+	while (!q.empty()) {
+		int x = q.front().second;
+		int y = q.front().first;
+		q.pop();
+		if (arr[y][x].number == lastNum)
+			return ;
+		for (int i = 0; i < 6; i++) {
+			int tx;
+			if (y % 2 == 0)
+				tx = x + dx1[i];
+			else
+				tx = x + dx2[i];
+			int ty = y + dy[i];
+			if (!CanGo(y, x, ty, tx))
+				continue;
+			if (chk[arr[ty][tx].number])
+				continue;
+			chk[arr[ty][tx].number] = true;
+			before[arr[ty][tx].number] = arr[y][x].number;
+			q.push(make_pair(ty, tx));
+		}
+	}
+}
 
 int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	cout.tie(NULL);
 	cin >> N;
 	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < N * 2-1; j += 2) {
-			if (i % 2 != 0 && j == 0)
-				j++;
-			if (i % 2 == 0)
-				cin >> map[i][j] >> map[i][j + 1];
-			else
-				cin >> map[i][j] >> map[i][j + 1];
-			visit[i][j] = visit[i][j + 1] = -1;
+		vector<P> tmp;
+		int limit = i % 2 == 0 ? N : N - 1;
+		for (int j = 0; j < limit ; j++) {
+			P tnew;
+			cin >> tnew.left >> tnew.right;
+			tnew.number = lastNum++;
+			tmp.push_back(tnew);
 		}
+		arr.push_back(tmp);
 	}
-	queue<int> q;
-	q.push(0);
-	visit[0][0] = 0;
-	while (!q.empty()) {
-		int idx = q.front();
-		int y = idx / (N * 2), x = idx % (N * 2);
-		if (x + 3 < N * 2) { //¿À¸¥ÂÊÀÌ ´õ ÀÖ´Â°æ¿ì
-			if (map[y][x + 1] == map[y][x + 2] && visit[y][x + 2] == -1) { //¿ìÃøÀÇ ¿ìÃøÀÌÀÖ´Â
-				q.push(idx + 2);
-				visit[y][x + 2] = visit[y][x] + 1;
-				visit[y][x + 3] = visit[y][x] + 1;
-			}
-			if (y - 1 >= 0 && map[y][x + 1] == map[y - 1][x + 1] && visit[y - 1][x + 1] == -1) { //¿ìÃøÀ§ À§ÂÊ
-				q.push(idx - 9);
-				visit[y - 1][x + 1] = visit[y][x] + 1;
-				visit[y - 1][x + 2] = visit[y][x] + 1;
-			}
-			if (y + 1 < N && map[y][x + 1] == map[y + 1][x + 1] && visit[y + 1][x + 1] == -1) { //¿ìÃøÀÇ ¾Æ·¡ÂÊ
-				q.push(idx + 11);
-				visit[y + 1][x + 1] = visit[y][x] + 1;
-				visit[y + 1][x + 2] = visit[y][x] + 1;
-			}
-		}
-		if (x - 2 >= 0) { //¿ŞÂÊÀÌ ´õ ÀÖ´Â°æ¿ì
-			if (map[y][x] == map[y][x - 1] && visit[y][x - 1] == -1) {
-				q.push(idx - 2);
-				visit[y][x - 2] = visit[y][x] + 1;
-				visit[y][x - 1] = visit[y][x] + 1;
-			}
-			if (y - 1 >= 0 && map[y][x] == map[y - 1][x] && visit[y - 1][x] == -1) {
-				q.push(idx - 11);
-				visit[y - 1][x - 1] = visit[y][x] + 1;
-				visit[y - 1][x] = visit[y][x] + 1;
-			}
-			if (y + 1 < N && map[y][x] == map[y + 1][x] && visit[y + 1][x] == -1) {
-				q.push(idx + 9);
-				visit[y + 1][x - 1] = visit[y][x] + 1;
-				visit[y + 1][x] = visit[y][x] + 1;
-			}
-		}
+	lastNum--;
+	BFS();
+	vector<int> road;
+	road.push_back(lastNum);
+	int bR = before[lastNum];
+	while (bR != 1) {
+		road.push_back(bR);
+		bR = before[bR];
 	}
-	cout << visit[N - 1][N * 2 - 2];
+	road.push_back(bR);
+	cout << road.size() << "\n";
+	for (int i = road.size()-1 ; i >= 0; i--) {
+		cout << road[i] << " ";
+	}
+	return 0;
 }
