@@ -285,6 +285,8 @@
 
 [놀이공원 난이도★★★](https://www.acmicpc.net/problem/1561)
 
+[인터넷 설치 난이도★★★](https://www.acmicpc.net/problem/1800)
+
 ### BackTracking
 
 [스도쿠 난이도★★★](https://www.acmicpc.net/problem/2580)
