@@ -362,3 +362,5 @@
 [웜홀 난이도★★(벨만포드)](https://www.acmicpc.net/problem/1865)
 
 [후위 표기식 난이도★](https://www.acmicpc.net/problem/1918)
+
+[최소비용 구하기 난이도★(다익스트라)](https://www.acmicpc.net/problem/1916)
