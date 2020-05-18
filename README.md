@@ -139,6 +139,8 @@
 
 [선발명단 난이도★](https://www.acmicpc.net/problem/3980)
 
+[치즈 난이도★★](https://www.acmicpc.net/problem/2636)
+
 ### BFS
 
 [스타트링크 난이도★](https://www.acmicpc.net/problem/5014)
