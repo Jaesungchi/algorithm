@@ -364,3 +364,5 @@
 [후위 표기식 난이도★](https://www.acmicpc.net/problem/1918)
 
 [최소비용 구하기 난이도★(다익스트라)](https://www.acmicpc.net/problem/1916)
+
+[해킹 난이도★(다익스트라)](https://www.acmicpc.net/problem/10282)
