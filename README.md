@@ -141,6 +141,8 @@
 
 [치즈 난이도★★](https://www.acmicpc.net/problem/2636)
 
+[단지번호 붙이기](https://www.acmicpc.net/problem/2667) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/DFS/DFS2667.kt)
+
 ### BFS
 
 [스타트링크 난이도★](https://www.acmicpc.net/problem/5014)
