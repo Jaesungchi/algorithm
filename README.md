@@ -370,3 +370,5 @@
 [해킹 난이도★(다익스트라)](https://www.acmicpc.net/problem/10282)
 
 [단어의 개수 (코틀린)](https://www.acmicpc.net/problem/1152)
+
+[설탕배달(코틀린)](https://www.acmicpc.net/problem/2839)
