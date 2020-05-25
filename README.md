@@ -143,6 +143,8 @@
 
 [단지번호 붙이기](https://www.acmicpc.net/problem/2667) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/DFS/DFS2667.kt)
 
+[로또 난이도★](https://www.acmicpc.net/problem/6603) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/DFS/DFS6603.kt)
+
 ### BFS
 
 [스타트링크 난이도★](https://www.acmicpc.net/problem/5014)
