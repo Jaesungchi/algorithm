@@ -373,6 +373,9 @@
 
 [해킹 난이도★(다익스트라)](https://www.acmicpc.net/problem/10282)
 
-[단어의 개수 (코틀린)](https://www.acmicpc.net/problem/1152)
+[단어의 개수](https://www.acmicpc.net/problem/1152)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC1151.cpp)
 
-[설탕배달(코틀린)](https://www.acmicpc.net/problem/2839)
+[설탕배달](https://www.acmicpc.net/problem/2839) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2839.cpp)
+
+[순열 사이클](https://www.acmicpc.net/problem/10451)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10451.cpp)
+
