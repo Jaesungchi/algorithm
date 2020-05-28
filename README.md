@@ -379,3 +379,5 @@
 
 [순열 사이클](https://www.acmicpc.net/problem/10451)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10451.cpp)
 
+[수면장애](https://www.acmicpc.net/problem/12755)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC12755.cpp)
+
