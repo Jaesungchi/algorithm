@@ -117,6 +117,8 @@
 
 [미친 로봇 난이도★★](https://www.acmicpc.net/problem/1405)
 
+[수 이어쓰기2](https://www.acmicpc.net/problem/1790) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BF/BF1790.kt)
+
 ### DFS
 
 [적녹색약 난이도 ★★★](https://www.acmicpc.net/problem/10026)
