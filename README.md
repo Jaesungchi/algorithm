@@ -183,6 +183,8 @@
 
 [토마토 난이도★](https://www.acmicpc.net/problem/7576) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BFS/BFS7576.kt)
 
+[구슬탈출 2 난이도★★★](https://www.acmicpc.net/problem/13460) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BFS/BFS13460.kt)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)
