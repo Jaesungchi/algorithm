@@ -267,6 +267,8 @@
 
 [파일 합치기 난이도★★★](https://www.acmicpc.net/problem/11066)
 
+[벼락치기](https://www.acmicpc.net/problem/14728) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/DP/DP14728.kt)
+
 ### GREEDY
 
 [ATM 난이도 ★★](https://www.acmicpc.net/problem/11399)
