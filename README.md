@@ -388,3 +388,5 @@
 [수면장애](https://www.acmicpc.net/problem/12755)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC12755.cpp)
 
 [뱀 난이도★★★★](https://www.acmicpc.net/problem/10875) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10875.cpp)
+
+[차이를 최대로](https://www.acmicpc.net/problem/10819) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10819.cpp)
