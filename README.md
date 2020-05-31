@@ -390,3 +390,5 @@
 [뱀 난이도★★★★](https://www.acmicpc.net/problem/10875) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10875.cpp)
 
 [차이를 최대로](https://www.acmicpc.net/problem/10819) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10819.cpp)
+
+[피보나치수2](https://www.acmicpc.net/problem/2748) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2748.cpp)
