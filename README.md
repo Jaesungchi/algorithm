@@ -341,13 +341,13 @@
 
 [최단경로 난이도★★★(다익스트라)](https://www.acmicpc.net/problem/1753)
 
-[배수찾기](https://www.acmicpc.net/problem/4504)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC4504.cpp)
+[배수찾기](https://www.acmicpc.net/problem/4504)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC4504.kt)
 
-[별찍기-12](https://www.acmicpc.net/problem/2522)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2522.cpp)
+[별찍기-12](https://www.acmicpc.net/problem/2522)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2522.kt)
 
-[별찍기-13](https://www.acmicpc.net/problem/2523)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2523.cpp)
+[별찍기-13](https://www.acmicpc.net/problem/2523)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2523.kt)
 
-[피보나치함수](https://www.acmicpc.net/problem/1003)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC1003.cpp)
+[피보나치함수](https://www.acmicpc.net/problem/1003)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC1003.kt)
 
 [행성탐사 난이도★★](https://www.acmicpc.net/problem/5549)
 
@@ -381,18 +381,18 @@
 
 [해킹 난이도★(다익스트라)](https://www.acmicpc.net/problem/10282)
 
-[단어의 개수](https://www.acmicpc.net/problem/1152)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC1151.cpp)
+[단어의 개수](https://www.acmicpc.net/problem/1152)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC1151.kt)
 
-[설탕배달](https://www.acmicpc.net/problem/2839) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2839.cpp)
+[설탕배달](https://www.acmicpc.net/problem/2839) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2839.kt)
 
-[순열 사이클](https://www.acmicpc.net/problem/10451)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10451.cpp)
+[순열 사이클](https://www.acmicpc.net/problem/10451)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10451.kt)
 
-[수면장애](https://www.acmicpc.net/problem/12755)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC12755.cpp)
+[수면장애](https://www.acmicpc.net/problem/12755)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC12755.kt)
 
-[뱀 난이도★★★★](https://www.acmicpc.net/problem/10875) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10875.cpp)
+[뱀 난이도★★★★](https://www.acmicpc.net/problem/10875) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10875.kt)
 
-[차이를 최대로](https://www.acmicpc.net/problem/10819) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10819.cpp)
+[차이를 최대로](https://www.acmicpc.net/problem/10819) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC10819.kt)
 
-[피보나치수2](https://www.acmicpc.net/problem/2748) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2748.cpp)
+[피보나치수2](https://www.acmicpc.net/problem/2748) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2748.kt)
 
-[골드바흐의 추측](https://www.acmicpc.net/problem/6588)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC6588.cpp)
+[골드바흐의 추측](https://www.acmicpc.net/problem/6588)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC6588.kt)
