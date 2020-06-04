@@ -187,6 +187,8 @@
 
 [구슬탈출 2 난이도★★★](https://www.acmicpc.net/problem/13460) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BFS/BFS13460.kt)
 
+[숨바꼭질](https://www.acmicpc.net/problem/1697) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BFS/BFS1697.kt)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)
