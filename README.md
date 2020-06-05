@@ -189,7 +189,9 @@
 
 [숨바꼭질](https://www.acmicpc.net/problem/1697) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BFS/BFS1697.kt)
 
-[숨바꼭질2](https://www.acmicpc.net/problem/12851)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BFS/BFS12851.kt)
+[숨바꼭질2](https://www.acmicpc.net/problem/12851) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BFS/BFS12851.kt)
+
+[숨바꼭질3](https://www.acmicpc.net/problem/13549) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BFS/BFS13549.kt)
 
 ### DP
 
