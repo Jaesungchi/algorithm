@@ -193,6 +193,8 @@
 
 [숨바꼭질3](https://www.acmicpc.net/problem/13549) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BFS/BFS13549.kt)
 
+[숨바꼭질4](https://www.acmicpc.net/problem/13913) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BFS/BFS13913.kt)
+
 ### DP
 
 [퇴사2 난이도★★★★★](https://www.acmicpc.net/problem/15486)
