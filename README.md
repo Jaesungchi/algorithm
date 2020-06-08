@@ -121,6 +121,8 @@
 
 [결혼식](https://www.acmicpc.net/problem/5567) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BF/BF5567.kt)
 
+[물통](https://www.acmicpc.net/problem/2251) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BF/BF2251.kt)
+
 ### DFS
 
 [적녹색약 난이도 ★★★](https://www.acmicpc.net/problem/10026)
