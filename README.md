@@ -123,6 +123,8 @@
 
 [물통](https://www.acmicpc.net/problem/2251) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BF/BF2251.kt)
 
+[퍼즐](https://www.acmicpc.net/problem/1525) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BF/BF1525.kt)
+
 ### DFS
 
 [적녹색약 난이도 ★★★](https://www.acmicpc.net/problem/10026)
