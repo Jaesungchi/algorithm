@@ -125,6 +125,8 @@
 
 [퍼즐](https://www.acmicpc.net/problem/1525) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BF/BF1525.kt)
 
+[외판원 순회2](https://www.acmicpc.net/problem/10971)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/BF/BF10971.kt)
+
 ### DFS
 
 [적녹색약 난이도 ★★★](https://www.acmicpc.net/problem/10026)
