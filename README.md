@@ -410,3 +410,5 @@
 [피보나치수2](https://www.acmicpc.net/problem/2748) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC2748.kt)
 
 [골드바흐의 추측](https://www.acmicpc.net/problem/6588)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC6588.kt)
+
+[특정한 최단경로 난이도★★★★ ](https://www.acmicpc.net/problem/1504)   [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/DIJKSTRA1504.kt)
