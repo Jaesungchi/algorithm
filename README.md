@@ -85,7 +85,9 @@
 
 [Puyo Puyo 난이도★★](https://www.acmicpc.net/problem/11559)
 
-[터보소트 난이도★★★★](https://www.acmicpc.net/problem/3006)	[(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/Simulation/S3006.kt)
+[터보소트 난이도★★★★](https://www.acmicpc.net/problem/3006) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/Simulation/S3006.kt)
+
+[레이저빔은 어디로 난이도★★](https://www.acmicpc.net/problem/3709) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/Simulation/S3709.kt)
 
 ### BF
 
