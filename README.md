@@ -89,6 +89,8 @@
 
 [레이저빔은 어디로 난이도★★](https://www.acmicpc.net/problem/3709) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/Simulation/S3709.kt)
 
+[카드섞기 난이도★](https://www.acmicpc.net/problem/1091)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/Simulation/S3709.kt)
+
 ### BF
 
 [링크와 스타트 난이도★★](https://www.acmicpc.net/problem/15661)
