@@ -416,3 +416,5 @@
 [골드바흐의 추측](https://www.acmicpc.net/problem/6588)  [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC6588.kt)
 
 [특정한 최단경로 난이도★★★★ ](https://www.acmicpc.net/problem/1504)   [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/DIJKSTRA1504.kt)
+
+[버블소트 난이도★★★](https://www.acmicpc.net/problem/1517) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/ETC/ETC1517.kt)
