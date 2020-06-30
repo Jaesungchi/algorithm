@@ -161,6 +161,8 @@
 
 [로또 난이도★](https://www.acmicpc.net/problem/6603) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/DFS/DFS6603.kt)
 
+[경로찾기 난이도★](https://www.acmicpc.net/problem/11403) [(Kotlin 코드)](https://github.com/Jaesungchi/algorithm/blob/master/Baekjoon/DFS/DFS11403.kt)
+
 ### BFS
 
 [스타트링크 난이도★](https://www.acmicpc.net/problem/5014)
